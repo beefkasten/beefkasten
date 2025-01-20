@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working as a Cloud Solution Architect
+- 🌱 I’m currently learning python, linux and database technologies
+- 💬 Ask me about about my dog
 <!--
 **beefkasten/beefkasten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
